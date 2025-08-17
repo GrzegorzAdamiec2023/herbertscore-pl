@@ -114,5 +114,4 @@ It covers the entirety of publicly available Polish texts in NKJP and serves as 
 ## 📝 License & Attribution
 
 - Base dataset: [NKJP](https://nkjp.pl/)  
-- Inspired by: [BERTScore](https://arxiv.org/abs/1904.09675)  
-```
+- Inspired by: [BERTScore](https://arxiv.org/abs/1904.09675)
