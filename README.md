@@ -20,7 +20,7 @@ It leverages **HerBERT** (or any other transformer model) together with **Invers
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourname/herBERTScore.git
+git clone https://github.com/GrzegorzAdamiec2023/herBERTScore.git
 cd herBERTScore
 pip install -r requirements.txt
 ```
